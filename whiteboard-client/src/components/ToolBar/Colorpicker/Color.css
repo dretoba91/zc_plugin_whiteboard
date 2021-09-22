@@ -92,6 +92,38 @@
   border-radius: 10px;
 }
 
+.color9 {
+  background: #800000;
+}
+
+.color10 {
+  background: #00ff00;
+}
+
+.color11 {
+  background: #808000;
+}
+
+.color12 {
+  background: #000080;
+}
+
+.color13 {
+  background: #008080;
+}
+
+.color14 {
+  background: #00ffff;
+}
+
+.color15 {
+  background: #a52a2a;
+}
+
+.color16 {
+  background: #d2691e;
+}
+
 .color-line {
   width: 20px;
   height: 0px;
